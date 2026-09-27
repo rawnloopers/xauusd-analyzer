@@ -1,0 +1,2 @@
+timestamp,decision,direction,zone_type,zone_high,zone_low,entry,sl,tp1,tp2,risk_usd,rr,reason
+2026-09-27T14:00:00Z,2650.35,BULLISH,BULLISH,BULLISH,Demand,2630.0-2640.0,FRESH,0,ACTIVE,WAIT FOR REACTION,NOT CONFIRMED,2640.0,2625.0,2665.0,2680.0,15.00,2.67,WAIT,"No return to demand; reaction and M5 confirmation absent; calculated risk exceeds $10; TP1 1.67R while TP2 2.67R",NO TRADE
